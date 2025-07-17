@@ -30,7 +30,7 @@ export default function Dashboard() {
                     </div>
                     <div className='third md:pt-10 pt-5 md:pb-0 md:text-2xl text-base tracking-wider max-w-screen-lg justify-center md:text-center mx-auto duration-500'>
                         <p className='md:font-semibold'> 
-                            A Socially Responsible Opportunity with Significant Investment Return & Indisputable Socioeconomic and Environmental Benefits.
+                            A socially responsible opportunity with significant investment return, strengthened by innovation in EV charging and cybersecurity, delivering indisputable socioeconomic and environmental benefits.
                         </p>
                         <div className='md:block lg:block hidden five border-[#fff] border-l-2 mx-auto items-center relative md:h-40 h-24 md:my-12 my-5 w-0 justify-center text-center flex rounded-sm'/>
                         <a 
