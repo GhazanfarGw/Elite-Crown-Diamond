@@ -54,7 +54,7 @@ function Logo({ isScrolled }) {
                 <div className="items-center flex duration-500 justify-end mx-auto gap-x-10">
                   <div className='flex pl-8 items-center'>
                     <a
-                      href="#home"
+                      href="./"
                       className="
                       
                       items-center text-base md:hover:border-b border-[#d8bb6c] relative h-8 pt-0.5 duration-200 lg:px-4 md:px-2 px-4 flex justify-center flex-row text-[#000] tracking-wide"
@@ -62,7 +62,7 @@ function Logo({ isScrolled }) {
                       Home
                     </a>
                     <a
-                      href="#about"
+                      href="./"
                       className="
                       
                       items-center text-base md:hover:border-b border-[#d8bb6c] relative h-8 pt-0.5 duration-200 lg:px-4 md:px-2 px-4 flex justify-center flex-row text-[#000] tracking-wide"
@@ -161,14 +161,14 @@ function Logo({ isScrolled }) {
             <div className="lg:hidden w-full pb-10 mt-3 bg-[#fff] text-black" id="mobile-menu">
               <div ref={ref} className="mx-auto z-10 px-5 flex flex-col">
               <a
-                  href="#home"
+                  href="./"
                   className="
                   tracking-wider py-3 flex flex-row items-center justify-between duration-200 border-b border-[#000] border-opacity-10 text-sm font-bold"
                 >
                   Home
                 </a>
                 <a
-                  href="#about"
+                  href="./"
                   className="
                   tracking-wider py-3 flex flex-row items-center justify-between duration-200 border-b border-[#000] border-opacity-10 text-sm font-bold"
                 >
@@ -271,7 +271,7 @@ function Logo({ isScrolled }) {
                 <div className="items-center flex duration-500 justify-end mx-auto gap-x-10">
                   <div className='flex pl-8 items-center'>
                     <a
-                      href="#home"
+                      href="./"
                       className="
                       
                       items-center text-base md:hover:border-b border-[#d8bb6c] relative h-8 pt-0.5 duration-200 lg:px-4 md:px-2 px-4 flex justify-center flex-row text-[#fff] tracking-wide"
@@ -279,7 +279,7 @@ function Logo({ isScrolled }) {
                       Home
                     </a>
                     <a
-                      href="#about"
+                      href="./"
                       className="
                       
                       items-center text-base md:hover:border-b border-[#d8bb6c] relative h-8 pt-0.5 duration-200 lg:px-4 md:px-2 px-4 flex justify-center flex-row text-[#fff] tracking-wide"
@@ -378,14 +378,14 @@ function Logo({ isScrolled }) {
             <div className="lg:hidden w-full pb-10 mt-3 bg-[#fff] text-black" id="mobile-menu">
               <div ref={ref} className="mx-auto z-10 px-5 flex flex-col">
               <a
-                  href="#home"
+                  href="./"
                   className="
                   tracking-wider py-3 flex flex-row items-center justify-between duration-200 border-b border-[#fff] border-opacity-10 text-sm font-bold"
                 >
                   Home
                 </a>
                 <a
-                  href="#about"
+                  href="./"
                   className="
                   tracking-wider py-3 flex flex-row items-center justify-between duration-200 border-b border-[#fff] border-opacity-10 text-sm font-bold"
                 >
