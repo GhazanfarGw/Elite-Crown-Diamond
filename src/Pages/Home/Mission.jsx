@@ -10,7 +10,7 @@ export default function Mission() {
                     <p className='tracking-widest text-[#757575]'>
                         ELITE
                     </p>
-                    <h1 className='text-3xl uppercase tracking-wider pt-2'>
+                    <h1 className='text-3xl tracking-wider pt-2'>
                         Mission
                     </h1>
                     <p className='pt-6 text-[#757575]'>
@@ -22,7 +22,7 @@ export default function Mission() {
                     <p className='tracking-widest text-[#757575]'>
                         ELITE
                     </p>
-                    <h1 className='text-3xl uppercase tracking-wider pt-2'>
+                    <h1 className='text-3xl tracking-wider pt-2'>
                         Objective
                     </h1>
                     <p className='pt-6 text-[#757575]'>
