@@ -7,7 +7,7 @@ export default function Section() {
         <div className='max-w-screen-xl mx-auto md:py-40 px-5 md:px-10'>
             <div className='md:grid md:grid-cols-3 mx-auto gap-20'>
                 <div className='md:border-2 py-10 px-0 md:px-5 border-[#B49763]'>
-                    <h1 className='text-2xl uppercase tracking-wider pt-2'>
+                    <h1 className='text-2xl tracking-wider pt-2'>
                         Business
                     </h1>
                     <p className='pt-3 text-[#757575]'>
@@ -15,7 +15,7 @@ export default function Section() {
                     </p>
                 </div>
                 <div className='md:border-2 py-10 px-0 md:px-5 border-[#B49763]'>
-                    <h1 className='text-2xl uppercase tracking-wider pt-2'>
+                    <h1 className='text-2xl tracking-wider pt-2'>
                         Sustainability
                     </h1>
                     <p className='pt-3 text-[#757575]'>
@@ -23,8 +23,8 @@ export default function Section() {
                     </p>
                 </div>
                 <div className='md:border-2 py-10 px-0 md:px-5 border-[#B49763]'>
-                    <h1 className='text-2xl uppercase tracking-wider pt-2'>
-                        Policymakers
+                    <h1 className='text-2xl tracking-wider pt-2'>
+                        Policy makers
                     </h1>
                     <p className='pt-3 text-[#757575]'>
                         Working towards a common goal to save the planet requires a lot of dedication and attention and we all need to speak the same language. Our governance is just what the Earth needs for a positive change.
@@ -33,7 +33,7 @@ export default function Section() {
             </div>
             <div className='md:grid md:grid-cols-3 mx-auto gap-20 mt-10'>
                 <div className='md:border-2 py-10 px-0 md:px-5 border-[#B49763]'>
-                    <h1 className='text-2xl uppercase tracking-wider pt-2'>
+                    <h1 className='text-2xl tracking-wider pt-2'>
                         Education
                     </h1>
                     <p className='pt-3 text-[#757575]'>
@@ -41,7 +41,7 @@ export default function Section() {
                     </p>
                 </div>
                 <div className='md:border-2 py-10 px-0 md:px-5 border-[#B49763]'>
-                    <h1 className='text-2xl uppercase tracking-wider pt-2'>
+                    <h1 className='text-2xl tracking-wider pt-2'>
                         Communities
                     </h1>
                     <p className='pt-3 text-[#757575]'>
@@ -49,7 +49,7 @@ export default function Section() {
                     </p>
                 </div>
                 <div className='md:border-2 py-10 px-0 md:px-5 border-[#B49763]'>
-                    <h1 className='text-2xl uppercase tracking-wider pt-2'>
+                    <h1 className='text-2xl tracking-wider pt-2'>
                         Consumers
                     </h1>
                     <p className='pt-3 text-[#757575]'>
