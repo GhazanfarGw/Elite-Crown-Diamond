@@ -82,13 +82,6 @@ const Footer = () => {
                             </div>
                             <div>
                                 <a className='text-sm text-[#757575] md:pt-4 pt-2 hover:text-[#d8bb6c] hover:font-semibold duration-150' 
-                                    href="#about"
-                                >
-                                    What We Build
-                                </a>
-                            </div>
-                            <div>
-                                <a className='text-sm text-[#757575] md:pt-4 pt-2 hover:text-[#d8bb6c] hover:font-semibold duration-150' 
                                     href="/electric-vehicle"
                                 >
                                     Electric Vehicle
