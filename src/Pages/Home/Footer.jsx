@@ -123,7 +123,6 @@ const Footer = () => {
                         </h1>
                         <p className='text-sm text-[#757575] md:pt-4 pt-2'>
                             info@elitecrowndiamond.com.com
-                            zoaib@elitecrowndiamond.com.com
                         </p>
                     </div>
                     <div className='md:pt-8 pt-10 md:py-16'>
