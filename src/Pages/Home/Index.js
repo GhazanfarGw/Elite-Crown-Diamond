@@ -6,7 +6,6 @@ import Footer from './Footer'
 import Updates from './Updates'
 import Office from '../Office'
 import Mission from './Mission'
-import Section from './section'
 
 export default function Index() {
   return (
@@ -15,7 +14,6 @@ export default function Index() {
         <div className='w-full justify-center mx-auto overflow-hidden'>
             <Dashboard/>
             <Mission/>
-            <Section/>
             <Ceo/>
             <Office/>
             <Updates/>
@@ -25,3 +23,4 @@ export default function Index() {
     
   )
 }
+
