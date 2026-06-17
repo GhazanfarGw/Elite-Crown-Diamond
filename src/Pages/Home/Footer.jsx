@@ -18,7 +18,7 @@ const Footer = () => {
                         </h1>
                         <div className="flex flex-row gap-7 pt-5">
                             <a 
-                                target="_black" href="https://twitter.com/greatwincheste" 
+                                target="_black" href="" 
                                 className="text-[#000]
                                 items-center text-sm relative h-8 pt-0.5 uppercase duration-200 flex justify-center flex-row hover:text-[#d8bb6c] active:text-[#DFC660]"
                                 rel="noreferrer">
@@ -31,7 +31,7 @@ const Footer = () => {
                                 </svg>
                             </a>
                             <a 
-                                target="_black" href="https://www.linkedin.com/company/great-winchester-investment-ltd/?viewAsMember=true" 
+                                target="_black" href="" 
                                 className="text-[#000]
                                 items-center text-sm relative h-8 pt-0.5 uppercase duration-200 flex justify-center flex-row hover:text-[#d8bb6c] active:text-[#DFC660]"
                                 rel="noreferrer">
@@ -44,7 +44,7 @@ const Footer = () => {
                                 </svg>
                             </a>
                             <a 
-                                target="_black" href="https://maps.app.goo.gl/JuH6hCzHQWRHm7448" 
+                                target="_black" href="" 
                                 className="items-center text-sm relative h-8 pt-0.5 uppercase duration-200 flex justify-center flex-row hover:text-[#d8bb6c] active:text-[#DFC660]"
                                 rel="noreferrer">
                                     <svg version="1.0" xmlns="http://www.w3.org/2757575/svg"
