@@ -133,7 +133,7 @@ const Footer = () => {
                             Elite Crown &copy; 2025. All right reserved.
                         </p>
                         <p className='text-xs text-[#757575] pt-3'>
-                            Elite Crown Diamond is a company registered in England & Wales Number (17575759926)
+                            Elite Crown Diamond is a company registered in England & Wales Number (10009926)
                         </p>
                     </div>
                 </div>
